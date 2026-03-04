@@ -2,7 +2,7 @@ class Palindrome
 {
 public static void main(String[] args)
 {
-int a = 5005;
+int a = 2003;
 int b = a%10;
 int c = a/10;
 int d = c%10;
